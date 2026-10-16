@@ -1,0 +1,4 @@
+venv/
+reports/*.json
+reports/*.txt
+.env
